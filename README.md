@@ -1,17 +1,21 @@
-## DiplomadoApec_MoviesKotlin
+## Diplomado Apec Movies Kotlin (BERNARDINO REYES JIMENEZ)
+
 ## REST API The Movie Database (TMDb)
-*ViewModel
-*MVVM
-*LiveData
-CardView
-RecyclerView
-Retrofit
-Room
-Dagger 2
-Glide
-Navigation Component
-Circle Image View
-SharedPreferences
+
+## App Architecture:
+
+-ViewModel
+-MVVM
+-LiveData
+-CardView
+-RecyclerView
+-Retrofit
+-Room
+-Dagger 2
+-Glide
+-Navigation Component
+-Circle Image View
+-SharedPreferences
 
 ![Image of GameOut](https://github.com/BernardinoReyes/Diplomado_Peliculas_kotlin/blob/master/ss/Screenshot_20191201-081652_Movie%20Billboards.jpg)
 ![Image of GameOut](https://github.com/BernardinoReyes/Diplomado_Peliculas_kotlin/blob/master/ss/Screenshot_20191201-081710_Movie%20Billboards.jpg)
