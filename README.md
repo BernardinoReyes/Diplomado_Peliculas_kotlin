@@ -1,8 +1,8 @@
 ## DiplomadoApec_MoviesKotlin
 ## REST API The Movie Database (TMDb)
-ViewModel
-MVVM
-LiveData
+*ViewModel
+*MVVM
+*LiveData
 CardView
 RecyclerView
 Retrofit
