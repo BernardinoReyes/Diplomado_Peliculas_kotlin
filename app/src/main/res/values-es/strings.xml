@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Carteleras de Peliculas</string>
+    <string name="data_is_empty">Los Datos están Vacíos</string>
+    <string name="please_wait">Por Favor Espera...</string>
+    <string name="movie_name">Piratas del Caribe: los Hombres Muertos</string>
+    <string name="movie_genre">Fantasía, Familia, Romance</string>
+    <string name="movie_release_year">01 Diciembre 2019</string>
+    <string name="popular">Popular</string>
+    <string name="in_theater">En el Teatro</string>
+    <string name="top">Top</string>
+    <string name="trending_movies">Peliculas Destacadas</string>
+    <string name="top_movies">Top Peliculas</string>
+    <string name="more">Mas</string>
+    <string name="movie_time">Consultar Otras Peliculas</string>
+    <string name="detail_intent">detail intent</string>
+    <string name="movie_rate">10</string>
+    <string name="add_to_favorites">Agregar a Favorito</string>
+    <string name="favorite">Favorito</string>
+    <string name="movie_cast">Ginnifer Goodwin</string>
+    <string name="movie_cast_as">Como Judy Hopps</string>
+</resources>
